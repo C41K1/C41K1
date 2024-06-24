@@ -24,9 +24,7 @@
 </div>
 </br>
 
-![Snake animation](https://github.com/C41K1/C41K1/blob/output/github-contibution-grid-snake.svg)
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=C41K1&repo=C41K1&theme=github_dark)](https://github.com/C41K1/C41K1)
+![snake gif](https://github.com/C41K1/C41K1/blob/output/github-contribution-grid-snake.gif)
 <!--
 **C41K1/C41K1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

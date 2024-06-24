@@ -1,3 +1,4 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=C41K1.C41K1" />
 ## Oi, eu sou o Caiki 👋
 
 - 💻 Cursando Engenharia de Software

@@ -1,4 +1,10 @@
-## Hi there 👋
+## Oi, eu sou o Caiki 👋
+<a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=C41K1&rank_icon=percentile&locale=pt-br&show_icons=true&hide=stars&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true">
+</a>
+<a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C41K1&locale=pt-br&theme=github_dark&langs_count=7&layout=compact&hide_border=true">
+</a>
 
 <!--
 **C41K1/C41K1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

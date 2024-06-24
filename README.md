@@ -8,7 +8,7 @@
 🎓 Cursando **Engenharia de Software** na **Universidade Tecnológica Federal do Paraná**
 
 🌱 Aprendendo **AWS e Azure**
-
+<hr/>
 <!--</div>
 <div align="center">
   <a href="mailto:caiki2003@gmail.com">
@@ -39,10 +39,9 @@
 
 <div align="center">
   <h2>🐍 Contribuições 🐍</h2>
-  <br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/C41K1/C41K1/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/C41K1/C41K1/blob/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="github-snake.svg" />
   </picture>
   

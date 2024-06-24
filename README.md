@@ -1,32 +1,49 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=C41K1.C41K1" />
-## Oi, eu sou o Caiki 👋
 
-- 💻 Cursando Engenharia de Software
-- 🎓 Universidade Tecnológica Federal do Paraná
-<div>
-  <a href="https://github.com/C41K1">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=C41K1&rank_icon=percentile&locale=pt-br&show_icons=true&hide=stars&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C41K1&locale=pt-br&theme=github_dark&langs_count=7&layout=compact&hide_border=true">
-</div>
-</br>
-<div style="display: inline-block;">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-  <img height="40" src="https://seeklogo.com/images/E/expo-go-app-logo-BBBE394CB8-seeklogo.com.png" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-</div>
-</br>
+ <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Ola!+👋;Eu+sou+o+Caiki!;Bem-vindo(a)+ao+meu+GitHub!" />
+ </h1>
+<div align="center">
+  
+🎓 Cursando **Engenharia de Software** na **Universidade Tecnológica Federal do Paraná**
 
-![snake gif](https://github.com/C41K1/C41K1/blob/output/github-contribution-grid-snake.svg)
-<!--
+🌱 Aprendendo **AWS e Azure**
+
+<!--</div>
+<div align="center">
+  <a href="mailto:caiki2003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+</div>-->
+<div align=center>
+  <img width="50%" src="https://github-readme-stats-salesp07.vercel.app/api?username=C41K1&count_private=true&show_icons=true&theme=github_dark&rank_icon=github&hide_border=true&locale=pt-br&hide=stars" alt="readme stats" />
+  <img width="40%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=C41K1&hide=SCSS&langs_count=8&layout=compact&theme=github_dark&hide_border=true&size_weight=0.5&count_weight=0.5&locale=pt-br" alt="top langs" />
+  <br/>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=C41K1&count_private=true&theme=github_dark&border_radius=10&locale=pt-br" alt="streak stats"/>
+</div>
+
+
+
+<hr/>
+<br/>
+
+<h2 align="center">⚒️ Linguagens, Frameworks e Ferramentas ⚒️</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,mui,html,css,python,javascript,typescript,md,vscode,github,figma,tailwind,git" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,c,java,nextjs,electron,nestjs,prisma,postgres,supabase,sequelize,vercel" /><br>
+</div>
+<br/>
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 Contribuições 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/C41K1/C41K1/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div><!--
 **C41K1/C41K1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

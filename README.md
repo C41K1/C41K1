@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=C41K1.C41K1" />
  <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Ola!+👋;Eu+sou+o+Caiki!;Bem-vindo(a)+ao+meu+GitHub!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;Eu+sou+o+Caiki!;Bem-vindo(a)+ao+meu+GitHub!" />
  </h1>
 <div align="center">
   
